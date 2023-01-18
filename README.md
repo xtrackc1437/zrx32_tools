@@ -1,2 +1,3 @@
 # zrx32_Terminal
-a terminal made with c++.
+serveral programs that i made by the progress of studying coding.
+Just for myself.
